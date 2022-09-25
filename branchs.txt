@@ -1,0 +1,5 @@
+Para criar uma branch a gente usa git branch (nome) ou usa git checkout -b (nome) => A diferença é que no checkout a gente já cria e automaticamente entra nessa branch
+
+para mudar de branch usamos git checkout (nome da branch existente)
+
+para pegarmos codigos de outro branch usamos o git merge (nome da branch)

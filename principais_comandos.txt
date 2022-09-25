@@ -1,0 +1,6 @@
+git init (Inicia o git no projeto)
+git status (Mostra arquivos novos, modificados, upados...)
+git add (Seleciona um arquivo, ou use o " . " para selecionar TODOS do projeto)
+git commit ( Faz o commit do arquivo(Basicamente atualiza pro modo monitorado.) )
+git log (Mostra as alterações e quem as alterou)
+git diff (Mostra a diferença entre os arquivos)

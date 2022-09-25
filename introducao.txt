@@ -1,0 +1,7 @@
+O git é uma ferramenta para você gerenciar seus projetos de modo mais facil, por exemplo. Em uma grande corporação
+onde varias pessoas estão trabalhando separadamente e fazendo certa coisa, o git é extremamente auxiliar e necessario.
+
+Com essa ferramenta você pode baixar atualizações do projeto feita por outros membros da corporação, ela pode baixar atualizações antigas e novas!
+alem de você conseguir saber as alterações, quem fez, etc.
+
+Resumindo: Git torna as coisas mais faceis.

@@ -1,0 +1,6 @@
+para fazer isso a gente pode utilizar os comandos:
+
+git remote add origin "seu link do repositorio github"
+git push -u origin master ( Upa o codigo no repositorio )
+
+git pull origin master ( Pega as atualizações do repositorio(codigo novo, ...) )
